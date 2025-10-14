@@ -178,6 +178,3 @@ GROUP BY continent;
 ## Author
 
 **Shoun** – Data Analyst / SQL Developer 
-
-```
-
